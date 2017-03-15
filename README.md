@@ -13,11 +13,11 @@ In addition, I am focused on creating solutions which are easily applicable not 
 ***
 
 # Education
-* 2012 - present - PhD in natural language processing, Department of software engineering, School of Electrical Engineering, University of Belgrade, GPA 10/10.
+* 2012 - present - PhD in natural language processing, Department of Software Engineering, School of Electrical Engineering, University of Belgrade, GPA 10/10.
 Planned thesis: *A methodology for solving semantic tasks in the processing of short texts written in natural languages with limited resources*
-* 2010 - 2011 - Master's degree, Department of computer science and Engineering, School of Electrical Engineering, University of Belgrade, GPA 10/10
+* 2010 - 2011 - Master's degree, Department of Computer Science and Engineering, School of Electrical Engineering, University of Belgrade, GPA 10/10.
 Thesis: *An expert system for determining the semantic similarity of short texts in Serbian*
-* 2006 - 2010 - Bachelor's degree, Department of computer science and Engineering, School of Electrical Engineering, University of Belgrade, GPA 9.56/10
+* 2006 - 2010 - Bachelor's degree, Department of Computer Science and Engineering, School of Electrical Engineering, University of Belgrade, GPA 9.56/10.
 Thesis: *A visual simulator of search algorithms*
 
 
@@ -51,7 +51,7 @@ Thesis: *A visual simulator of search algorithms*
 * *[Evaluacija i klasifikacija korišćenja sintaksnih informacija u određivanju semantičke sličnosti kratkih tekstova](https://www.researchgate.net/publication/261120444_Evaluacija_i_klasifikacija_koriscenja_sintaksnih_informacija_u_odredivanju_semanticke_slicnosti_kratkih_tekstova_Evaluation_and_Classification_of_Syntax_Information_Usage_in_Determining_Short-Text_Sem)*, Vuk Batanović, Dragan Bojić, in Proceedings of the 21st Telecommunications Forum (TELFOR 2013), Belgrade, Serbia, pp. 821–824 (2013). *(paper in Serbian)*
 * *[Semantic similarity of short texts in languages with a deficient natural language processing support](https://www.researchgate.net/publication/257015880_Semantic_similarity_of_short_texts_in_languages_with_a_deficient_natural_language_processing_support)*, Bojan Furlan, Vuk Batanović, Boško Nikolić, Decision Support Systems, vol. 55, no. 3, pp. 710-719 (2013).
 * *[Softverski sistem za određivanje semantičke sličnosti kratkih tekstova na srpskom jeziku](https://www.researchgate.net/publication/254049616_Softverski_sistem_za_odredivanje_semanticke_slicnosti_kratkih_tekstova_na_srpskom_jeziku_A_software_system_for_determining_the_semantic_similarity_of_short_texts_in_Serbian)*, Vuk Batanović, Bojan Furlan, Boško Nikolić, in Proceedings of the 19th Telecommunications Forum (TELFOR 2011), Belgrade, Serbia, pp. 1249-1252 (2011). *(paper in Serbian)*
-* *[Sofverski sistem za učenje ekspertskih sistema](https://www.researchgate.net/publication/266146671_Sofverski_sistem_za_ucenje_ekspertskih_sistema_Software_System_for_Expert_Systems_Learning), Dražen Drašković, Vuk Batanović, Boško Nikolić, in Proceedings of the 18th Telecommunications Forum (TELFOR 2010)*, Belgrade, Serbia, pp. 1129-1132 (2010). *(paper in Serbian)*
+* *[Sofverski sistem za učenje ekspertskih sistema](https://www.researchgate.net/publication/266146671_Sofverski_sistem_za_ucenje_ekspertskih_sistema_Software_System_for_Expert_Systems_Learning)*, Dražen Drašković, Vuk Batanović, Boško Nikolić, in Proceedings of the 18th Telecommunications Forum (TELFOR 2010), Belgrade, Serbia, pp. 1129-1132 (2010). *(paper in Serbian)*
 
 
 ## Research projects
@@ -78,6 +78,7 @@ Thesis: *A visual simulator of search algorithms*
 * Semantic similarity
 * Distributional semantics
 * Short-text processing
+* Morphological normalization
 * Multilingual NLP solutions
 * NLP for under-resourced languages
 * (Deep) machine learning
