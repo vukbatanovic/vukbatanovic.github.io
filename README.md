@@ -1,5 +1,6 @@
-<title>Vuk Batanović - About me</title>
-![Profile picture](./Profile.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+![Profile picture](./Profile.jpg){:style="float: left;margin-right: 20px;margin-top: 20px;"}
+Vuk Batanović - About me
+========================
 I am a PhD candidate at the School of Electrical Engineering, University of Belgrade, Serbia, and a natural language processing researcher working on models of semantic similarity and sentiment analysis.
 One of my main fields of interest is dealing with the particularities of short-text processing.
 In addition, I am focused on creating solutions which are easily applicable not only to English, but to other, less prominent languages as well.
@@ -12,10 +13,12 @@ Thesis: *An expert system for determining the semantic similarity of short texts
 * 2006 - 2010 - Bachelor's degree, Department of computer science and Engineering, School of Electrical Engineering, University of Belgrade, GPA 9.56/10
 Thesis: *A visual simulator of search algorithms*
 
+
 ## Summer schools and seminars
 * *[ESSLLI 2016](http://esslli2016.unibz.it/)* – 28th European Summer School in Logic, Language and Information, Free University of Bozen-Bolzano, Italy
 * *[LxMLS 2016](http://lxmls.it.pt/2016/)* – 6th Lisbon Machine Learning Summer School, Instituto Superior Técnico, Portugal
 * *[ReLDI (Regional Linguistic Data Initiative)](http://reldi.spur.uzh.ch/seminars/)* seminars in Belgrade and Zagreb, 2016-2017
+
 
 ## Online courses
 * Natural Language Processing, Stanford University, Coursera
@@ -28,7 +31,10 @@ Thesis: *A visual simulator of search algorithms*
 * Data Mining with Weka, University of Waikato
 * More Data Mining with Weka, University of Waikato
 
+***
+
 # Research
+
 
 ## Papers
 * *[Sentiment Classification of Documents in Serbian: The Effects of Morphological Normalization](https://www.researchgate.net/publication/312540228_Sentiment_Classification_of_Documents_in_Serbian_The_Effects_of_Morphological_Normalization)*, Vuk Batanović, Boško Nikolić, in Proceedings of the 24th Telecommunications Forum (TELFOR 2016), Belgrade, Serbia (2016).
@@ -40,8 +46,10 @@ Thesis: *A visual simulator of search algorithms*
 * *[Softverski sistem za određivanje semantičke sličnosti kratkih tekstova na srpskom jeziku](https://www.researchgate.net/publication/254049616_Softverski_sistem_za_odredivanje_semanticke_slicnosti_kratkih_tekstova_na_srpskom_jeziku_A_software_system_for_determining_the_semantic_similarity_of_short_texts_in_Serbian)*, Vuk Batanović, Bojan Furlan, Boško Nikolić, in Proceedings of the 19th Telecommunications Forum (TELFOR 2011), Belgrade, Serbia, pp. 1249-1252 (2011). *(paper in Serbian)*
 * *[Sofverski sistem za učenje ekspertskih sistema](https://www.researchgate.net/publication/266146671_Sofverski_sistem_za_ucenje_ekspertskih_sistema_Software_System_for_Expert_Systems_Learning), Dražen Drašković, Vuk Batanović, Boško Nikolić, in Proceedings of the 18th Telecommunications Forum (TELFOR 2010)*, Belgrade, Serbia, pp. 1129-1132 (2010). *(paper in Serbian)*
 
+
 ## Research projects
 * 2016-2017 - Research collaborator on the *[ReLDI (Regional Linguistic Data Initiative)](http://reldi.spur.uzh.ch/)* SNSF SCOPES project 160501 -  a two-year institutional partnership between research units in Switzerland, Serbia and Croatia. I participated in the creation, distribution and analysis of linguistic/NLP datasets and tools for Serbian and Croatian.
+
 
 ## Created datasets and tools
 * *[Serbian Movie Review Dataset (SerbMR)](https://vukbatanovic.github.io/SerbMR)* - sentiment analysis document collection
@@ -51,9 +59,12 @@ Thesis: *A visual simulator of search algorithms*
 * *[Serbian Paraphrase Corpus (SRParaphrase)](https://vukbatanovic.github.io/SRParaphrase)* - semantic textual similarity short-text collection
 * *[LinSTSS](https://bitbucket.org/bfurlan/semsim)* and *POST STSS* - algorithms for determining the semantic similarity of short texts, particularly suitable for languages with limited NLP resources/tools
 
+
 ## Grants and awards
 * Elsevier grant for ESSLLI 2016 participation
 * Scholarship of the Fund for Young Talents of the Republic of Serbia
+
+***
 
 # Professional interests
 * Sentiment analysis
@@ -62,6 +73,7 @@ Thesis: *A visual simulator of search algorithms*
 * Multilingual NLP solutions
 * Processing of under-resourced languages
 * (Deep) machine learning
+
 
 ## Programming languages
 * Java
@@ -72,17 +84,20 @@ Thesis: *A visual simulator of search algorithms*
 * Matlab
 * SQL
 
+
 # Languages
 * Serbian (native)
 * English (fluent, *Cambridge Certificate of Proficiency in English (CPE), grade A*)
 * French (limited)
 
+
 # Profiles on other websites
-* ![LinkedIn](./icons/Linkedin.svg){:height="15px" width="15px"} [LinkedIn](http://www.linkedin.com/in/vukbatanovic)
-* ![Google Scholar](./icons/GoogleScholar.png){:height="15px" width="15px"} [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
-* ![ResearchGate](./icons/ResearchGate.jpg){:height="15px" width="15px"} [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
-* ![Academia.edu](./icons/Academia.png){:height="15px" width="15px"} [Academia.edu](http://etf.academia.edu/VukBatanovi%C4%87]
-* ![Mendeley](./icons/Mendeley.png){:height="15px" width="15px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
+* ![LinkedIn](./icons/Linkedin.svg){:height="18px" width="18px"} [LinkedIn](http://www.linkedin.com/in/vukbatanovic)
+* ![Google Scholar](./icons/GoogleScholar.png){:height="18px" width="18px"} [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
+* ![ResearchGate](./icons/ResearchGate.jpg){:height="18px" width="18px"} [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
+* ![Academia.edu](./icons/Academia.png){:height="18px" width="18px"} [Academia.edu](http://etf.academia.edu/VukBatanović]
+* ![Mendeley](./icons/Mendeley.png){:height="18px" width="18px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
+
 
 # Contact
 If you wish to contact me, send an e-mail to: vuk.batanovic / at / student.etf.bg.ac.rs
