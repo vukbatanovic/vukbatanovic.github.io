@@ -93,7 +93,7 @@ Thesis: *A visual simulator of search algorithms*
 * SQL
 
 
-# Languages
+## Language skills
 * Serbian (native)
 * English (fluent, *Cambridge Certificate of Proficiency in English (CPE), grade A*)
 * French (limited)
