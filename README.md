@@ -1,7 +1,11 @@
-![Profile picture](./Profile.jpg){:style="float: left;margin-right: 30px;margin-top: 30px;"}
+![Profile picture](./Profile.jpg){:style="float: left;margin-right: 30px;margin-top: 25px;"}
 # Vuk Batanović 
+Hello and welcome to my personal page!
+***
+
 # About me
-I am a PhD candidate at the School of Electrical Engineering, University of Belgrade, Serbia, and a natural language processing researcher working on models of semantic similarity and sentiment analysis.
+I am currently a PhD candidate at the School of Electrical Engineering, University of Belgrade, Serbia.
+I study natural language processing or, more specifically, computational models of semantic similarity and sentiment analysis.
 One of my main fields of interest is dealing with the particularities of short-text processing.
 In addition, I am focused on creating solutions which are easily applicable not only to English, but to other, less prominent languages as well.
 
@@ -72,8 +76,9 @@ Thesis: *A visual simulator of search algorithms*
 * Sentiment analysis
 * Semantic similarity
 * Distributional semantics
+* Short-text processing
 * Multilingual NLP solutions
-* Processing of under-resourced languages
+* NLP for under-resourced languages
 * (Deep) machine learning
 
 
