@@ -71,6 +71,7 @@ Thesis: *A visual simulator of search algorithms*
 * Elsevier grant for ESSLLI 2016 participation
 * Scholarship of the Fund for Young Talents of the Republic of Serbia
 
+
 ## Membership in professional organizations
 * ACL SIGSLAV - Association for Computational Linguistics Special Interest Group on Slavic Natural Language Processing
 
