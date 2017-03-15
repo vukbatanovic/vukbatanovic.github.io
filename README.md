@@ -1,6 +1,6 @@
 ![Profile picture](./Profile.jpg){:style="float: left;margin-right: 30px;margin-top: 25px;"}
 # Vuk Batanović 
-Hello and welcome to my personal page!
+Contact e-mail: vuk.batanovic / at / student.etf.bg.ac.rs
 
 ***
 
@@ -107,9 +107,5 @@ Thesis: *A visual simulator of search algorithms*
 * ![ResearchGate](./icons/ResearchGate.jpg){:height="12px" width="12px"} [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
 * ![Academia.edu](./icons/Academia.png){:height="12px" width="12px"} [Academia.edu](http://etf.academia.edu/VukBatanović)
 * ![Mendeley](./icons/Mendeley.png){:height="12px" width="12px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
-
-
-# Contact
-If you wish to contact me, send an e-mail to: vuk.batanovic / at / student.etf.bg.ac.rs
 
 ***
