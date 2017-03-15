@@ -1,4 +1,5 @@
-![Profile picture](./Profile.jpg)
+<title>Vuk Batanović - About me</title>
+![Profile picture](./Profile.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 I am a PhD candidate at the School of Electrical Engineering, University of Belgrade, Serbia, and a natural language processing researcher working on models of semantic similarity and sentiment analysis.
 One of my main fields of interest is dealing with the particularities of short-text processing.
 In addition, I am focused on creating solutions which are easily applicable not only to English, but to other, less prominent languages as well.
@@ -73,15 +74,15 @@ Thesis: *A visual simulator of search algorithms*
 
 # Languages
 * Serbian (native)
-* English (fluent, Cambridge Certificate of Proficiency in English (CPE), grade A)
+* English (fluent, *Cambridge Certificate of Proficiency in English (CPE), grade A*)
 * French (limited)
 
 # Profiles on other websites
-![LinkedIn](./icons/Linkedin.svg){:height="20px" width="20px"} [LinkedIn] (http://www.linkedin.com/in/vukbatanovic)
-![Google Scholar](./icons/GoogleScholar.png){:height="20px" width="20px"} [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
-![ResearchGate](./icons/ResearchGate.jpg){:height="20px" width="20px"} [ResearchGate] (http://www.researchgate.net/profile/Vuk_Batanovic)
-![Academia.edu](./icons/Academia.png){:height="20px" width="20px"} [Academia.edu] (http://etf.academia.edu/VukBatanovi%C4%87]
-![Mendeley](./icons/Mendeley.png){:height="20px" width="20px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
+* ![LinkedIn](./icons/Linkedin.svg){:height="15px" width="15px"} [LinkedIn](http://www.linkedin.com/in/vukbatanovic)
+* ![Google Scholar](./icons/GoogleScholar.png){:height="15px" width="15px"} [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
+* ![ResearchGate](./icons/ResearchGate.jpg){:height="15px" width="15px"} [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
+* ![Academia.edu](./icons/Academia.png){:height="15px" width="15px"} [Academia.edu](http://etf.academia.edu/VukBatanovi%C4%87]
+* ![Mendeley](./icons/Mendeley.png){:height="15px" width="15px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
 
 # Contact
 If you wish to contact me, send an e-mail to: vuk.batanovic / at / student.etf.bg.ac.rs
