@@ -1,9 +1,10 @@
 ![Profile picture](./Profile.jpg){:style="float: left;margin-right: 20px;margin-top: 20px;"}
-Vuk Batanović - About me
-========================
+# Vuk Batanović - About me
 I am a PhD candidate at the School of Electrical Engineering, University of Belgrade, Serbia, and a natural language processing researcher working on models of semantic similarity and sentiment analysis.
 One of my main fields of interest is dealing with the particularities of short-text processing.
 In addition, I am focused on creating solutions which are easily applicable not only to English, but to other, less prominent languages as well.
+
+***
 
 # Education
 * 2012 - present - PhD in natural language processing, Department of software engineering, School of Electrical Engineering, University of Belgrade, GPA 10/10.
@@ -66,7 +67,7 @@ Thesis: *A visual simulator of search algorithms*
 
 ***
 
-# Professional interests
+# Professional interests and skills
 * Sentiment analysis
 * Semantic similarity
 * Distributional semantics
@@ -90,14 +91,17 @@ Thesis: *A visual simulator of search algorithms*
 * English (fluent, *Cambridge Certificate of Proficiency in English (CPE), grade A*)
 * French (limited)
 
+***
 
 # Profiles on other websites
 * ![LinkedIn](./icons/Linkedin.svg){:height="18px" width="18px"} [LinkedIn](http://www.linkedin.com/in/vukbatanovic)
 * ![Google Scholar](./icons/GoogleScholar.png){:height="18px" width="18px"} [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
 * ![ResearchGate](./icons/ResearchGate.jpg){:height="18px" width="18px"} [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
-* ![Academia.edu](./icons/Academia.png){:height="18px" width="18px"} [Academia.edu](http://etf.academia.edu/VukBatanović]
+* ![Academia.edu](./icons/Academia.png){:height="18px" width="18px"} [Academia.edu](http://etf.academia.edu/VukBatanović)
 * ![Mendeley](./icons/Mendeley.png){:height="18px" width="18px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
 
 
 # Contact
 If you wish to contact me, send an e-mail to: vuk.batanovic / at / student.etf.bg.ac.rs
+
+***
