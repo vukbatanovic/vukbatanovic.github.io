@@ -73,7 +73,7 @@ Thesis: *A visual simulator of search algorithms*
 
 
 ## Membership in professional organizations
-* ACL SIGSLAV - Association for Computational Linguistics Special Interest Group on Slavic Natural Language Processing
+* [ACL SIGSLAV](http://sigslav.cs.helsinki.fi/) - Association for Computational Linguistics Special Interest Group on Slavic Natural Language Processing
 
 ***
 
