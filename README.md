@@ -24,7 +24,7 @@ Thesis: *A visual simulator of search algorithms*
 ## Summer schools and seminars
 * *[ESSLLI 2016](http://esslli2016.unibz.it/)* – 28th European Summer School in Logic, Language and Information, Free University of Bozen-Bolzano, Italy
 * *[LxMLS 2016](http://lxmls.it.pt/2016/)* – 6th Lisbon Machine Learning Summer School, Instituto Superior Técnico, Portugal
-* *[ReLDI (Regional Linguistic Data Initiative)](http://reldi.spur.uzh.ch/seminars/)* seminars in Belgrade and Zagreb, 2016-2017
+* *[ReLDI (Regional Linguistic Data Initiative)](http://reldi.spur.uzh.ch/seminars/)* seminars in Belgrade, Serbia, and Zagreb, Croatia, 2016-2017
 
 
 ## Online courses
@@ -67,7 +67,7 @@ Thesis: *A visual simulator of search algorithms*
 * *[LinSTSS](https://bitbucket.org/bfurlan/semsim)* and *POST STSS* - algorithms for determining the semantic similarity of short texts, particularly suitable for languages with limited NLP resources/tools
 
 
-## Grants and awards
+## Grants and scholarships
 * Elsevier grant for ESSLLI 2016 participation
 * Scholarship of the Fund for Young Talents of the Republic of Serbia
 
@@ -83,8 +83,8 @@ Thesis: *A visual simulator of search algorithms*
 * Distributional semantics
 * Short-text processing
 * Morphological normalization
+* NLP for minor languages
 * Multilingual NLP solutions
-* NLP for under-resourced languages
 * (Deep) machine learning
 
 
