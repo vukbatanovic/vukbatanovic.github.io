@@ -64,7 +64,7 @@ Thesis: *A visual simulator of search algorithms*
 * *[NBSVM-Weka](https://vukbatanovic.github.io/NBSVM-Weka)* - a multiclass NBSVM implementation for Weka 
 * *[SCStemmers](https://vukbatanovic.github.io/SCStemmers)* - a collection of stemmers for Serbian and Croatian
 * *[Serbian Paraphrase Corpus (SRParaphrase)](https://vukbatanovic.github.io/SRParaphrase)* - semantic textual similarity short-text collection
-* *[LinSTSS](https://bitbucket.org/bfurlan/semsim)* and *POST STSS* - algorithms for determining the semantic similarity of short texts, particularly suitable for languages with limited NLP resources/tools
+* *[LinSTSS](https://bitbucket.org/bfurlan/semsim)* and *POST STSS* - algorithms for determining the semantic similarity of short texts, equally applicable to English and to other, less prominent languages
 
 
 ## Grants and scholarships
