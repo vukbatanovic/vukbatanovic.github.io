@@ -46,7 +46,7 @@ Thesis: *A visual simulator of search algorithms*
 
 
 ## Papers
-* *[Sentiment Classification of Documents in Serbian: The Effects of Morphological Normalization](./papers/Telfor_2016.pdf)*, Vuk Batanović, Boško Nikolić, in Proceedings of the 24th Telecommunications Forum (TELFOR 2016), Belgrade, Serbia (2016). *(Blažo Mirčevski award for the best paper by a young author)*
+* *[Sentiment Classification of Documents in Serbian: The Effects of Morphological Normalization](./papers/Telfor_2016.pdf)*, Vuk Batanović, Boško Nikolić, in Proceedings of the 24th Telecommunications Forum (TELFOR 2016), Belgrade, Serbia (2016). **(Blažo Mirčevski award for the best paper by a young author)**
 * *[Reliable Baselines for Sentiment Analysis in Resource-Limited Languages: The Serbian Movie Review Dataset](./papers/LREC_2016.pdf)*, Vuk Batanović, Boško Nikolić, Milan Milosavljević, in Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016), Portorož, Slovenia, pp. 2688–2696 (2016).
 * *[Using Part-of-Speech Tags as Deep-Syntax Indicators in Determining Short-Text Semantic Similarity](./papers/ComSIS_2015.pdf)*, Vuk Batanović, Dragan Bojić, Computer Science and Information Systems, vol. 12, no. 1, pp. 1–31 (2015).
 * *[Evaluation and Classification of Syntax Usage in Determining Short-Text Semantic Similarity](./papers/TelforJournal_2014.pdf)*, Vuk Batanović, Dragan Bojić, Telfor Journal vol. 6, no. 2, pp. 64–68 (2014).
@@ -83,7 +83,7 @@ Thesis: *A visual simulator of search algorithms*
 
 # Teaching
 
-* Created the teaching materials and held classes for the machine learning course at the *[Intelligent Systems PhD study program](http://sites.google.com/site/ubintelligentsystemsenglish/)* of the University of Belgrade
+* Created the teaching materials and gave lectures within the machine learning course at the *[Intelligent Systems PhD study program](http://sites.google.com/site/ubintelligentsystemsenglish/)* of the University of Belgrade
 
 ***
 
