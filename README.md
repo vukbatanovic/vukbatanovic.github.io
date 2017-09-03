@@ -84,7 +84,8 @@ Thesis: *A visual simulator of search algorithms*
 
 # Teaching
 
-* Created the teaching materials, gave lectures, and supervised student projects within the machine learning course at the *[Intelligent Systems PhD study program](http://sites.google.com/site/ubintelligentsystemsenglish/)* of the University of Belgrade
+* 2017 - present - Created the teaching materials, gave lectures, and supervised student projects within the machine learning course at the *[Intelligent Systems PhD study program](http://sites.google.com/site/ubintelligentsystemsenglish/)* of the University of Belgrade
+* 2016 - present - Supervised several bachelor's degree and master's degree theses of students at the School of Electrical Engineering, University of Belgrade
 
 ***
 
