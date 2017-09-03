@@ -84,7 +84,7 @@ Thesis: *A visual simulator of search algorithms*
 
 # Teaching
 
-* Created the teaching materials and gave lectures within the machine learning course at the *[Intelligent Systems PhD study program](http://sites.google.com/site/ubintelligentsystemsenglish/)* of the University of Belgrade
+* Created the teaching materials, gave lectures, and supervised student projects within the machine learning course at the *[Intelligent Systems PhD study program](http://sites.google.com/site/ubintelligentsystemsenglish/)* of the University of Belgrade
 
 ***
 
