@@ -62,12 +62,21 @@ Thesis: *A visual simulator of search algorithms*
 
 
 ## Created datasets and tools
-* *[Serbian Movie Review Dataset (SerbMR)](https://vukbatanovic.github.io/SerbMR)* - sentiment analysis document collection
-* *SRSentiComments Dataset* - sentiment analysis short-text collection
-* *[NBSVM-Weka](https://vukbatanovic.github.io/NBSVM-Weka)* - a multiclass NBSVM implementation for Weka 
-* *[SCStemmers](https://vukbatanovic.github.io/SCStemmers)* - a collection of stemmers for Serbian and Croatian
-* *[Serbian Paraphrase Corpus (paraphrase.sr)](https://vukbatanovic.github.io/paraphrase.sr)* - semantic textual similarity short-text collection
+
+### Semantic textual similarity
+* *[Serbian STS News Corpus (STS.news.rs)](https://vukbatanovic.github.io/STS.news.sr) - a collection of sentence pairs with fine-grained semantic textual similarity scores
+* *[Serbian Paraphrase Corpus (paraphrase.sr)](https://vukbatanovic.github.io/paraphrase.sr)* - a collection of sentence pairs with binary paraphrase scores
 * *[LinSTSS](https://bitbucket.org/bfurlan/semsim)* and *POST STSS* - algorithms for measuring the semantic similarity of short texts, particularly suitable for languages with limited access to advanced NLP tools
+* *[STSAnno](https://vukbatanovic.github.io/STSAnno) - a program for offline semantic textual similarity annotation
+
+### Sentiment analysis
+* *[Serbian Movie Review Dataset (SerbMR)](https://vukbatanovic.github.io/SerbMR)* - a sentiment analysis document collection
+* *SRSentiComments Dataset* - a sentiment analysis short-text collection
+* *[NBSVM-Weka](https://vukbatanovic.github.io/NBSVM-Weka)* - a multiclass NBSVM implementation for Weka
+
+### Other linguistic tools
+* *[SCStemmers](https://vukbatanovic.github.io/SCStemmers)* - a collection of stemmers for Serbian and Croatian
+
 
 
 ## Awards, grants and scholarships
