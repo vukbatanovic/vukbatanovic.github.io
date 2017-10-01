@@ -64,7 +64,7 @@ Thesis: *A visual simulator of search algorithms*
 ## Created datasets and tools
 
 ### Semantic textual similarity
-* *[Serbian STS News Corpus (STS.news.rs)](https://vukbatanovic.github.io/STS.news.sr)* - a collection of sentence pairs with fine-grained semantic textual similarity scores
+* *[Serbian STS News Corpus (STS.news.sr)](https://vukbatanovic.github.io/STS.news.sr)* - a collection of sentence pairs with fine-grained semantic textual similarity scores
 * *[Serbian Paraphrase Corpus (paraphrase.sr)](https://vukbatanovic.github.io/paraphrase.sr)* - a collection of sentence pairs with binary paraphrase scores
 * *[LinSTSS](https://bitbucket.org/bfurlan/semsim)* and *POST STSS* - algorithms for measuring the semantic similarity of short texts, particularly suitable for languages with limited access to advanced NLP tools
 * *[STSAnno](https://vukbatanovic.github.io/STSAnno)* - a program for offline semantic textual similarity annotation
