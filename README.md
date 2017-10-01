@@ -1,6 +1,6 @@
-![Profile picture](./Profile.jpg){:style="float: left;margin-right: 30px;margin-top: 25px;"}
 # Vuk Batanović 
 Contact e-mail: vuk.batanovic / at / student.etf.bg.ac.rs
+<img align="left" src="./Profile.jpg">
 
 ***
 
