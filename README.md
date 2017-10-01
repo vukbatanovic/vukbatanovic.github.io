@@ -127,11 +127,11 @@ Thesis: *A visual simulator of search algorithms*
 ***
 
 # Other profiles
-* ![Github](./icons/Github.png){:height="12px" width="12px} [My Github repos](https://github.com/vukbatanovic)
-* ![LinkedIn](./icons/Linkedin.svg){:height="12px" width="12px"} [LinkedIn](http://www.linkedin.com/in/vukbatanovic)
-* ![Google Scholar](./icons/GoogleScholar.png){:height="12px" width="12px"} [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
-* ![ResearchGate](./icons/ResearchGate.jpg){:height="12px" width="12px"} [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
-* ![Academia.edu](./icons/Academia.png){:height="12px" width="12px"} [Academia.edu](http://etf.academia.edu/VukBatanović)
-* ![Mendeley](./icons/Mendeley.png){:height="12px" width="12px"} [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
+* <img src="./icons/Github.png" alt="Github" width="12" height="12"> [My Github repos](https://github.com/vukbatanovic)
+* <img src="./icons/Linkedin.svg" alt="LinkedIn" width="12" height="12"> [LinkedIn](http://www.linkedin.com/in/vukbatanovic)
+* <img src="./icons/GoogleScholar.png" alt="Google Scholar" width="12" height="12"> [Google Scholar](https://scholar.google.com/citations?user=hNfP92YAAAAJ&hl=en)
+* <img src="./icons/ResearchGate.jpg" alt="ResearchGate" width="12" height="12"> [ResearchGate](http://www.researchgate.net/profile/Vuk_Batanovic)
+* <img src="./icons/Academia.png" alt="Academia.edu" width="12" height="12"> [Academia.edu](http://etf.academia.edu/VukBatanović)
+* <img src="./icons/Mendeley.png" alt="Mendeley" width="12" height="12"> [Mendeley](https://www.mendeley.com/profiles/vuk-batanovic/)
 
 ***
