@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/telfor_journal_2017/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/telfor_journal_2017/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/publication/telfor_journal_2017/</loc>
+      <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/reldi/" hreflang="sr"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/reldi/" hreflang="en"/>
     
@@ -17,11 +29,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/open_information_extraction/" hreflang="sr"/>
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/open_information_extraction/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/" hreflang="en"/>
     
-      <loc>https://vukbatanovic.github.io/sr/research_projects/open_information_extraction/</loc>
-      <lastmod>2017-10-09T00:00:00+00:00</lastmod>
+      <loc>https://vukbatanovic.github.io/sr/publication/</loc>
+      <lastmod>2017-10-08T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -29,11 +41,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/" hreflang="sr"/>
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/clarin/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/clarin/" hreflang="en"/>
     
-      <loc>https://vukbatanovic.github.io/sr/publication/</loc>
-      <lastmod>2017-10-08T00:00:00+00:00</lastmod>
+      <loc>https://vukbatanovic.github.io/sr/research_projects/clarin/</loc>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -58,6 +70,18 @@
     
       <loc>https://vukbatanovic.github.io/sr/project/stsanno/</loc>
       <lastmod>2017-09-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/open_information_extraction/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/open_information_extraction/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/research_projects/open_information_extraction/</loc>
+      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -250,7 +274,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication_types/2/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/publication_types/2/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-12-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
