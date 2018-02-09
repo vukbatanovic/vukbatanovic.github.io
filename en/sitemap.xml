@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/lrec_2018/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/lrec_2018/" hreflang="sr"/>
+    
+      <loc>https://vukbatanovic.github.io/publication/lrec_2018/</loc>
+      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/telfor_journal_2017/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/telfor_journal_2017/" hreflang="sr"/>
     
@@ -261,7 +273,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication_types/1/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/publication_types/1/</loc>
-      <lastmod>2016-11-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -362,7 +374,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication_types/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/publication_types/</loc>
-      <lastmod>2016-11-23T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
