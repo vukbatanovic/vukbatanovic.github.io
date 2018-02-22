@@ -17,6 +17,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/stsfinegrain/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/project/stsfinegrain/" hreflang="sr"/>
+    
+      <loc>https://vukbatanovic.github.io/project/stsfinegrain/</loc>
+      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/telfor_journal_2017/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/telfor_journal_2017/" hreflang="sr"/>
     
@@ -296,7 +308,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/tags/algorithm/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,7 +373,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/project/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/project/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -397,7 +409,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/tags/semantic-similarity/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -430,7 +442,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/tags/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/tags/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -496,7 +496,7 @@ In addition, I am focused on creating solutions which are easily applicable not 
 
       <div class="pub-abstract" itemprop="text">
         
-        Although the task of semantic textual similarity (STS) has gained in prominence in the last few years, annotated STS datasets for model training and evaluation, particularly those with fine-grained similarity scores, remain scarce for languages other than English, and practically non-existent for minor ones. In this paper, we present the Serbian Semantic Textual Similarity News Corpus (STS.news.sr) – an STS dataset for Serbian that contains 1192 sentence pairs annotated with fine-grained semantic similarity scores. We describe the process of its creation and annotation, and we analyze and compare our corpus with the existing news-based STS datasets in English and other major languages. Baseline STS models are evaluated on the Serbian STS News Corpus and, since Serbian is a morphologically rich language, the effect of various morphological normalization tools on their performance is considered as well. The Serbian STS News Corpus and the annotation tool and guidelines used in its creation are made publicly available.
+        Although the task of semantic textual similarity (STS) has gained in prominence in the last few years, annotated STS datasets for model training and evaluation, particularly those with fine-grained similarity scores, remain scarce for languages other than English, and practically non-existent for minor ones. In this paper, we present the Serbian Semantic Textual Similarity News Corpus (STS.news.sr) – an STS dataset for Serbian that contains 1192 sentence pairs annotated with fine-grained semantic similarity scores. We describe the process of its creation and annotation, and we analyze and compare our corpus with the existing news-based STS datasets in English and other major languages. Several STS models are evaluated on the Serbian STS News Corpus and, since Serbian is a morphologically rich language, the effect of various morphological normalization tools on their performance is considered as well. The Serbian STS News Corpus and the annotation tool and guidelines used in its creation are made publicly available.
         
       </div>
 
@@ -523,12 +523,24 @@ In addition, I am focused on creating solutions which are easily applicable not 
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STSFineGrain/">
+  Code
+</a>
+
 
 <a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STS.news.sr/">
   Dataset
 </a>
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STSAnno/">
+  STSAnno annotation tool
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20English">
+  STS annotation guidelines
+</a>
 
 <a class="btn btn-primary btn-outline btn-xs" href="http://hdl.handle.net/11356/1063">
   Serbian web corpus srWaC
@@ -922,12 +934,24 @@ In addition, I am focused on creating solutions which are easily applicable not 
 
 
 
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STSFineGrain/">
+  Code
+</a>
+
 
 <a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STS.news.sr/">
   Dataset
 </a>
 
 
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STSAnno/">
+  STSAnno annotation tool
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/STS.news.sr/Annotation%20instructions%20-%20English">
+  STS annotation guidelines
+</a>
 
 <a class="btn btn-primary btn-outline btn-xs" href="http://hdl.handle.net/11356/1063">
   Serbian web corpus srWaC
@@ -1371,12 +1395,35 @@ In addition, I am focused on creating solutions which are easily applicable not 
       
       
       
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item semantic-similarity algorithm">
+        <div class="card">
+          
+          <a href="http://vukbatanovic.github.io/STSFineGrain/" title="" class="card-image hover-overlay"
+             target="_blank">
+            <img src="/img/headers/Lrec2018_2.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="http://vukbatanovic.github.io/STSFineGrain/" target="_blank">STSFineGrain – a collection of semantic textual similarity models</a></h4>
+            <div class="card-desription">
+              <p><strong><em>STSFineGrain</em></strong> is a Java package that contains a collection of semantic textual similarity models and a framework for their evaluation. Seven different STS models are implemented, including three unsupervised and four supervised models. Among the supervised models there are both previously presented algorithms, such as <a href="./publication/dss_2013/">LInSTSS</a> and <a href="./publication/comsis_2015/">POST STSS</a>, as well as the new <em>POS-TF STSS</em> model that outperforms them all. Evaluation can be performed either on an entire dataset, or via cross-validation on it. <strong><em>STSFineGrain</em></strong> currently supports STS modeling for texts in Serbian and in English. This package was presented in the <a href="./publication/lrec_2018/">LREC 2018 paper</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      
+      
+      
+      
+      
+      
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item semantic-similarity dataset">
         <div class="card">
           
           <a href="http://vukbatanovic.github.io/STS.news.sr/" title="" class="card-image hover-overlay"
              target="_blank">
-            <img src="/img/headers/Lrec2018.png" alt="" class="img-responsive">
+            <img src="/img/headers/Lrec2018_2.jpg" alt="" class="img-responsive">
           </a>
           
           <div class="card-text">
@@ -1589,7 +1636,7 @@ In addition, I am focused on creating solutions which are easily applicable not 
           
           
           
-          <a href="/tags/algorithm" style="font-size:2.115299544597441rem">algorithm</a>
+          <a href="/tags/algorithm" style="font-size:2.2060487080897575rem">algorithm</a>
         
           
           
@@ -1603,7 +1650,7 @@ In addition, I am focused on creating solutions which are easily applicable not 
           
           
           
-          <a href="/tags/dataset" style="font-size:1.8423502277012793rem">dataset</a>
+          <a href="/tags/dataset" style="font-size:1.7597775578910853rem">dataset</a>
         
           
           
@@ -1617,21 +1664,21 @@ In addition, I am focused on creating solutions which are easily applicable not 
           
           
           
-          <a href="/tags/paraphrase" style="font-size:1.8423502277012793rem">paraphrase</a>
+          <a href="/tags/paraphrase" style="font-size:1.7597775578910853rem">paraphrase</a>
         
           
           
           
           
           
-          <a href="/tags/semantic-similarity" style="font-size:2.3270154828966763rem">semantic-similarity</a>
+          <a href="/tags/semantic-similarity" style="font-size:2.365329775974723rem">semantic-similarity</a>
         
           
           
           
           
           
-          <a href="/tags/sentiment-analysis" style="font-size:1.4576497722987207rem">sentiment-analysis</a>
+          <a href="/tags/sentiment-analysis" style="font-size:1.4055522180836377rem">sentiment-analysis</a>
         
           
           
@@ -1645,21 +1692,21 @@ In addition, I am focused on creating solutions which are easily applicable not 
           
           
           
-          <a href="/tags/text-classification" style="font-size:1.4576497722987207rem">text-classification</a>
+          <a href="/tags/text-classification" style="font-size:1.4055522180836377rem">text-classification</a>
         
           
           
           
           
           
-          <a href="/tags/tool" style="font-size:1.4576497722987207rem">tool</a>
+          <a href="/tags/tool" style="font-size:1.4055522180836377rem">tool</a>
         
           
           
           
           
           
-          <a href="/tags/weka" style="font-size:1.4576497722987207rem">weka</a>
+          <a href="/tags/weka" style="font-size:1.4055522180836377rem">weka</a>
         
       </div>
     
