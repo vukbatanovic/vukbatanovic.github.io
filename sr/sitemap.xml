@@ -5,6 +5,42 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/jtdh_2018_sr/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/jtdh_2018_sr/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/publication/jtdh_2018_sr/</loc>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/project/setimes_sr/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/setimes_sr/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/project/setimes_sr/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/jtdh_2018_hr/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/jtdh_2018_hr/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/publication/jtdh_2018_hr/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/lrec_2018/" hreflang="sr"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/lrec_2018/" hreflang="en"/>
     
@@ -285,7 +321,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication_types/1/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/publication_types/1/</loc>
-      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -359,6 +395,16 @@
     
     <url>
     
+      <loc>https://vukbatanovic.github.io/sr/tags/imenovani-entiteti/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://vukbatanovic.github.io/sr/tags/klasifikacija-teksta/</loc>
       <lastmod>2016-05-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -369,8 +415,28 @@
     
     <url>
     
+      <loc>https://vukbatanovic.github.io/sr/tags/lema/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://vukbatanovic.github.io/sr/tags/morfologija/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vukbatanovic.github.io/sr/tags/morfosintaksa/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -393,7 +459,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/project/</loc>
-      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -406,7 +472,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication_types/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/publication_types/</loc>
-      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -438,8 +504,18 @@
     
     <url>
     
+      <loc>https://vukbatanovic.github.io/sr/tags/sintaksa/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://vukbatanovic.github.io/sr/tags/skup-podataka/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

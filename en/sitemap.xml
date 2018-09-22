@@ -5,6 +5,42 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/jtdh_2018_sr/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/jtdh_2018_sr/" hreflang="sr"/>
+    
+      <loc>https://vukbatanovic.github.io/publication/jtdh_2018_sr/</loc>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/setimes_sr/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/project/setimes_sr/" hreflang="sr"/>
+    
+      <loc>https://vukbatanovic.github.io/project/setimes_sr/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/jtdh_2018_hr/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/jtdh_2018_hr/" hreflang="sr"/>
+    
+      <loc>https://vukbatanovic.github.io/publication/jtdh_2018_hr/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/lrec_2018/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/lrec_2018/" hreflang="sr"/>
     
@@ -285,7 +321,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication_types/1/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/publication_types/1/</loc>
-      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -340,7 +376,17 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/tags/dataset/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vukbatanovic.github.io/tags/lemma/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -350,7 +396,27 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/tags/morphology/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vukbatanovic.github.io/tags/morphosyntax/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vukbatanovic.github.io/tags/named-entities/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -373,7 +439,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/project/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/project/</loc>
-      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -386,7 +452,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication_types/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/publication_types/</loc>
-      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -430,6 +496,16 @@
     
       <loc>https://vukbatanovic.github.io/tags/stemming/</loc>
       <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vukbatanovic.github.io/tags/syntax/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
