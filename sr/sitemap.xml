@@ -5,6 +5,42 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/clarin/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/clarin/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/research_projects/clarin/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/serbian_autoria/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/serbian_autoria/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/research_projects/serbian_autoria/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/project/serbian_autoria/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/serbian_autoria/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/project/serbian_autoria/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/jtdh_2018_sr/" hreflang="sr"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/jtdh_2018_sr/" hreflang="en"/>
     
@@ -65,6 +101,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/reldi/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/reldi/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/research_projects/reldi/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/telfor_journal_2017/" hreflang="sr"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/telfor_journal_2017/" hreflang="en"/>
     
@@ -77,35 +125,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/reldi/" hreflang="sr"/>
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/reldi/" hreflang="en"/>
-    
-      <loc>https://vukbatanovic.github.io/sr/research_projects/reldi/</loc>
-      <lastmod>2017-10-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/" hreflang="sr"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/publication/</loc>
       <lastmod>2017-10-08T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/clarin/" hreflang="sr"/>
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/clarin/" hreflang="en"/>
-    
-      <loc>https://vukbatanovic.github.io/sr/research_projects/clarin/</loc>
-      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -354,7 +378,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/sr/tags/algoritam/</loc>
-      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -426,7 +450,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/sr/tags/morfologija/</loc>
-      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -459,7 +483,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/project/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/project/</loc>
-      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -485,7 +509,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/research_projects/</loc>
-      <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -495,7 +519,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/sr/tags/semanti%C4%8Dka-sli%C4%8Dnost/</loc>
-      <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -515,7 +539,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/sr/tags/skup-podataka/</loc>
-      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -525,7 +549,7 @@
     <url>
     
       <loc>https://vukbatanovic.github.io/sr/tags/stemovanje/</loc>
-      <lastmod>2016-05-26T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
