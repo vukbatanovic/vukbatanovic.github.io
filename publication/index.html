@@ -283,6 +283,9 @@
         
         
       
+        
+        
+      
 
       <p>
         Filter by type:
@@ -303,6 +306,10 @@
         <select class="pub-filters" data-filter-group="year">
           <option value="*">All</option>
           
+          
+          <option value=".year-2023">
+            2023
+          </option>
           
           <option value=".year-2020">
             2020
@@ -348,6 +355,127 @@
       </p>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-md-12 isotope-item pubtype-2 year-2023">
+          
+            <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+      <a href="https://vukbatanovic.github.io/publication/eaai_2023/">
+        <img src="/img/headers/EAAI.jpg" class="pub-banner"
+             itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://vukbatanovic.github.io/publication/eaai_2023/" itemprop="url">Monolingual, multilingual and cross-lingual code comment classification</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        Code comments are one of the most useful forms of documentation and metadata for understanding software implementation. Previous research on code comment classification has focused only on comments in English, typically extracted from a few programming languages. This paper addresses the problem of code comment classification not only in the monolingual setting, but also in the multilingual and cross-lingual one, in order to examine whether they can outperform the traditional monolingual approach. To tackle this task, we introduce a novel, publicly available code comment dataset, consisting of over 10,000 code comments collected from software projects written in eight programming languages (C, C++, C#, Java, JavaScript/TypeScript, PHP, Python, and SQL). About half of them are written in Serbian while the other half are written in English. This dataset was manually annotated according to a newly proposed taxonomy of code comment categories. We fine-tune and evaluate multiple monolingual and multilingual pre-trained neural language models on the code comment classification task and compare their performances to several baselines. The best results for Serbian comments are obtained using the monolingual neural model BERTić, trained on Serbian and closely related languages. On the other hand, the optimal choice for English is the multilingual neural model multilingual BERT, which successfully extracts useful patterns from data in both languages. Although the cross-lingual setting shows some promise for simple binary classification, it has yet to reach sufficiently high performance levels for practical use. We also analyze model performance across different programming languages.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Marija Kostić, Vuk Batanović, Boško Nikolić
+        
+      </div>
+
+      <div class="pub-publication">
+        In <em>EAAI</em>,&nbsp;2023.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://vukbatanovic.github.io/publication/eaai_2023/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://vukbatanovic.github.io/pdf/EAAI_2023.pdf">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ETF-NLP/AVANTES-Classification">
+  Code
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ETF-NLP/AVANTES-Classification/tree/main/data">
+  Dataset
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://github.com/clarinsi/reldi-tokeniser">
+  ReLDI tokenizer for Serbian
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://vukbatanovic.github.io/SCStemmers">
+  Stemmers for Serbian and Croatian
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://github.com/clarinsi/classla">
+  Lemmatizer for Serbian
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://www.clarin.si/repository/xmlui/handle/11356/1206">
+  FastText word embeddings for Serbian (Serbian web corpus srWaC)
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://fasttext.cc/docs/en/crawl-vectors.html">
+  FastText word embeddings for Serbian (Common Crawl)
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://fasttext.cc/docs/en/english-vectors.html">
+  FastText word embeddings for English
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://huggingface.co/classla/bcms-bertic">
+  BERTić LLM for Serbian
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://huggingface.co/google/electra-base-discriminator">
+  ELECTRA LLM for English
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://huggingface.co/google-bert/bert-base-multilingual-cased">
+  Multilingual BERT LLM
+</a>
+
+<a class="btn btn-primary btn-outline btn-xs" href="http://huggingface.co/FacebookAI/xlm-roberta-base">
+  XLM-RoBERTa LLM
+</a>
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+          
+        </div>
+
         
 
         

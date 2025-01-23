@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/eaai_2023/" hreflang="sr"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/eaai_2023/" hreflang="en"/>
+    
+      <loc>https://vukbatanovic.github.io/sr/publication/eaai_2023/</loc>
+      <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/comtext/" hreflang="sr"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/comtext/" hreflang="en"/>
     
@@ -427,7 +439,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication_types/2/" hreflang="en"/>
     
       <loc>https://vukbatanovic.github.io/sr/publication_types/2/</loc>
-      <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+      <lastmod>2023-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
