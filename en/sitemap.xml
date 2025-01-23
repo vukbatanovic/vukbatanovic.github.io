@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/comtext/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/comtext/" hreflang="sr"/>
+    
+      <loc>https://vukbatanovic.github.io/research_projects/comtext/</loc>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/publication/phd_thesis/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/publication/phd_thesis/" hreflang="sr"/>
     
@@ -91,18 +103,6 @@
     
       <loc>https://vukbatanovic.github.io/publication/erel_2019/</loc>
       <lastmod>2019-05-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/research_projects/clarin/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/clarin/" hreflang="sr"/>
-    
-      <loc>https://vukbatanovic.github.io/research_projects/clarin/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -570,7 +570,7 @@
       <xhtml:link rel="alternate" href="https://vukbatanovic.github.io/sr/research_projects/" hreflang="sr"/>
     
       <loc>https://vukbatanovic.github.io/research_projects/</loc>
-      <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
